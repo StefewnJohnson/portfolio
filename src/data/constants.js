@@ -290,7 +290,7 @@ export const Bio = {
       image:
         "https://media.licdn.com/dms/image/v2/D5612AQGyilbRtwjQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729524506512?e=1770249600&v=beta&t=obfcIOg88uI44SouzcLRYi-HPuFSs-DC36T5Q0GjKGQ",
       tags: ["Python", "Google Cloud", "Power BI", "GBT-2", "Google Vertex AI", "Google Colab"],
-      category: "machine learning",
+      category: "full-stack", "ai/machine learning",
       webapp: "https://github.com/StefewnJohnson/AI-News-Aggregator",
     },
     {
@@ -302,7 +302,7 @@ export const Bio = {
       image:
         "https://media.istockphoto.com/id/1414126704/vector/online-shopping-concept.jpg?s=612x612&w=0&k=20&c=crMSuH56xz0OwOU9aD9WruiACBWyZY_TOnbG4hQaXec=",
       tags: ["C#", "Unity", "Visual Studio", "MonoDevelop"],
-      category: "game",
+      category: "full-stack", "website",
       webapp: "https://github.com/StefewnJohnson/Kuik",
     },
     {
@@ -314,7 +314,7 @@ export const Bio = {
       image:
         "https://avatars.githubusercontent.com/u/237477365?s=200&v=4",
       tags: ["Java", "Replit"],
-      category: "program",
+      category: "full-stack", "mobile",
       webapp: "https://github.com/StefewnJohnson/Sharelyst",
     },
     {
@@ -326,7 +326,7 @@ export const Bio = {
       image:
         "https://raw.githubusercontent.com/StefewnJohnson/Weather-App-GUI/refs/heads/main/Weather%20App%20GUI%20ScreenShot.png",
       tags: ["Java", "NetBeans"],
-      category: "program",
+      //category: "all",
       webapp: "https://github.com/StefewnJohnson/Weather-App-GUI",
     },
     {
