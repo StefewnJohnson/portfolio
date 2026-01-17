@@ -289,7 +289,7 @@ export const Bio = {
         "Built an end-to-end GenAI pipeline that aggregates AI news from YouTube and RSS feeds, processes content with LLM-powered summarization, relevance ranking, and personalized digest generation. Designed a modular backend architecture with scrapers, processing services, and agents, persisting data in PostgreSQL and orchestrating daily production runs. Deployed the containerized system using Docker with scheduled execution on Render in a production environment.",
       image:
         "https://media.licdn.com/dms/image/v2/D5612AQGyilbRtwjQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729524506512?e=1770249600&v=beta&t=obfcIOg88uI44SouzcLRYi-HPuFSs-DC36T5Q0GjKGQ",
-      tags: ["Python", "Google Cloud", "Power BI", "GBT-2", "Google Vertex AI", "Google Colab"],
+      tags: ["AI / Machine Learning", "LLM", "Web Scraping", "PostgreSQL", "Docker"],
       category: "ai/machine learning",
       webapp: "https://github.com/StefewnJohnson/AI-News-Aggregator",
     },
@@ -301,7 +301,7 @@ export const Bio = {
         "Collaboratively built and deployed a Spring Boot backend using MVC architecture, exposing RESTful APIs with transactional business logic; Dockerized and deployed on Render. Designed a normalized PostgreSQL schema with core entities, enum-based order states, and stock-safe checkout logic, ensuring data integrity. Developed a React frontend with Redux state management, protected routes, and JWT-based API integration for secure end-to-end communication.",
       image:
         "https://media.istockphoto.com/id/1414126704/vector/online-shopping-concept.jpg?s=612x612&w=0&k=20&c=crMSuH56xz0OwOU9aD9WruiACBWyZY_TOnbG4hQaXec=",
-      tags: ["C#", "Unity", "Visual Studio", "MonoDevelop"],
+      tags: ["Spring Boot", "React", "Redux", "REST APIs", "PostgreSQL"],
       category: "full-stack",
       webapp: "https://github.com/StefewnJohnson/Kuik",
     },
@@ -313,7 +313,7 @@ export const Bio = {
         "Collaboratively built a React Native (Expo) frontend with intuitive UI and seamless user interaction. Built a secure Node.js/Express backend with SQLite, JWT authentication, validation middleware, and RESTful routes for users, groups, and transactions. Deployed the full stack on Render, ensuring production-ready performance and environment consistency.",
       image:
         "https://avatars.githubusercontent.com/u/237477365?s=200&v=4",
-      tags: ["Java", "Replit"],
+      tags: ["React Native / Expo", "Node.js / Express", "Mobile App Development", "SQLite / Databases", "JWT Authentication / Security"],
       category: "mobile",
       webapp: "https://github.com/StefewnJohnson/Sharelyst",
     },
@@ -325,7 +325,7 @@ export const Bio = {
         "Developed a Java application that provides real-time weather information of the user-entered location, including weather conditions, wind speed, humidity, and temperature, using Java API Calls. Ensures flawless interaction between the GUI and the external weather source using backend logic to extract weather data and geographic coordinates of a specific location.",
       image:
         "https://raw.githubusercontent.com/StefewnJohnson/Weather-App-GUI/refs/heads/main/Weather%20App%20GUI%20ScreenShot.png",
-      tags: ["Java", "NetBeans"],
+      tags: ["Java", "Application Development", "API Integration", "Graphical User Interface (GUI)", "Problem-Solving & Debugging"],
       webapp: "https://github.com/StefewnJohnson/Weather-App-GUI",
     },
     {
@@ -337,12 +337,7 @@ export const Bio = {
       image:
         "https://raw.githubusercontent.com/StefewnJohnson/stefewnjohnson.github.io/main/src/images/Screen%20Shot%202024-07-24%20at%209.56.26%20AM.png",
         //"https://edifylearning.github.io/EdifyWebsite/assets/img/Logo%20Edify%20(11)%20(1).png",
-      tags: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Visual Studio Code"
-      ],
+      tags: ["HTML", "CSS", "JavaScript", "Visual Studio Code", "Web Development"],
       category: "website",
       webapp: "https://edifylearning.github.io/EdifyWebsite/",
     },
