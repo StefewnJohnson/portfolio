@@ -198,7 +198,7 @@ export const Bio = {
       img: "https://www.theglobeandmail.com/resizer/hMhEz1i79KAmXvteNAmF1Es34jc=/arc-anglerfish-tgam-prod-tgam/public/6KE3L65AFNDBJAMVBXZY6ZQGCE.JPG",
       role: "Programmer/Analyst Co-op",
       company: "TTC, Toronto, ON",
-      date: "May 2025 - PRESENT",
+      date: "May 2025 - Aug 2025",
       desc: "Built a maintenance system and database in Microsoft Access, enabling admin users to issue maintenance notices. Rebuilt TTC’s old Microsoft Access forms and reports using HTML, CSS, and JavaScript for better functionality and UI. Developed an employee database in Microsoft Access to streamline the process of updating TTC employee information, using SQL and VBA to reduce the task to a two-button operation. Engineered a calendar application using HTML, CSS, and JavaScript, displaying historical and current train service data for each day, peak, and train line for TTC staff",
       skills: [
         "SQL",
@@ -216,7 +216,7 @@ export const Bio = {
       img: "https://pbs.twimg.com/profile_images/1306241109924950018/4n0WOra7_400x400.jpg",
       role: "Head Soccer Coach",
       company: "Thornhill Soccer Club, Thornhill, ON",
-      date: "May 2023 - PRESENT",
+      date: "May 2023 - Aug 2025",
       desc: "Meticulously craft session plans for training sessions and effectively organize teams to secure victories. Take charge of cleaning and maintaining the sports area, ensuring a safe and welcoming environment for all. Facilitate the development of players' technical skills and soccer knowledge through focused training and mentorship. Cultivate strong leadership, control, and planning skills essential for driving team performance and success.",
       skills: [
         "Communication",
