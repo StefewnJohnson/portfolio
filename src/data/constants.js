@@ -322,12 +322,12 @@ export const Bio = {
       title: "Weather App",
       date: "Jul 2024 - Aug 2024",
       description:
-        "Developed a Tic-Tac-Toe game using Java and NetBeans, featuring a responsive design and user-friendly interface. Utilized 3-D arrays to manage the game board and track progress, ensuring accurate detection of winning combinations and smooth turn-based gameplay. Added a game history feature to allow players to review previous moves and outcomes.",
+        "Developed a Java application that provides real-time weather information of the user-entered location, including weather conditions, wind speed, humidity, and temperature, using Java API Calls. Ensures flawless interaction between the GUI and the external weather source using backend logic to extract weather data and geographic coordinates of a specific location.",
       image:
-        "https://cdn-icons-png.flaticon.com/512/10199/10199746.png",
+        "https://raw.githubusercontent.com/StefewnJohnson/Weather-App-GUI/refs/heads/main/Weather%20App%20GUI%20ScreenShot.png",
       tags: ["Java", "NetBeans"],
       category: "program",
-      webapp: "https://github.com/StefewnJohnson/Tic-Tac-Toe",
+      webapp: "https://github.com/StefewnJohnson/Weather-App-GUI",
     },
     {
       id: 4,
