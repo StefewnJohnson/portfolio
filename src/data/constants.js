@@ -295,6 +295,42 @@ export const Bio = {
     },
     {
       id: 1,
+      title: "Awesome Platformer",
+      date: "Jun 2022 - Aug 2022",
+      description:
+        "Developed a dynamic Unity-based game using C#, featuring a diverse range of monsters with unique abilities and attack patterns to enhance player engagement. Implemented varied combat strategies with multiple weapons and skills, culminating in a challenging final boss with special attacks and strong defenses. Designed immersive levels with traps, puzzles, and enemy hordes, and ensured a captivating experience through high-quality graphics and sound effects. Created a user-friendly main menu for starting new games, loading saved progress, and adjusting settings, ensuring a compelling and immersive gameplay experience.",
+      image:
+        "https://raw.githubusercontent.com/StefewnJohnson/Awesome-Platformer/main/UI/BG.png",
+      tags: ["C#", "Unity", "Visual Studio", "MonoDevelop"],
+      category: "game",
+      webapp: "https://github.com/StefewnJohnson/Awesome-Platformer",
+    },
+    {
+      id: 2,
+      title: "The Village (Java Game)",
+      date: "May 2022 - Jun 2022",
+      description:
+        "Developed a text-based game using Java on Replit, utilizing the platform’s collaborative coding features. Focused on narrative and player choices, with customization options for character names and difficulty levels. Designed various enemies and bosses with unique attributes and attack patterns, and implemented combat mechanics through text commands for strategic gameplay. Incorporated an XP system for leveling up and enhancing abilities, and crafted a compelling story that evolves based on player decisions. Integrated a range of weapons with distinct effects, and included multiple difficulty levels to cater to diverse player preferences. Ensured straightforward navigation through a text-based interface and enhanced replayability with multiple difficulty settings and story paths.",
+      image:
+        "https://149455152.v2.pressablecdn.com/wp-content/uploads/2021/05/REvillagegeekdadfull.png",
+      tags: ["Java", "Replit"],
+      category: "program",
+      webapp: "https://github.com/StefewnJohnson/The-Village-Game",
+    },
+    {
+      id: 3,
+      title: "Tic-Tac-Toe",
+      date: "May 2021 - Jun 2021",
+      description:
+        "Developed a Tic-Tac-Toe game using Java and NetBeans, featuring a responsive design and user-friendly interface. Utilized 3-D arrays to manage the game board and track progress, ensuring accurate detection of winning combinations and smooth turn-based gameplay. Added a game history feature to allow players to review previous moves and outcomes.",
+      image:
+        "https://cdn-icons-png.flaticon.com/512/10199/10199746.png",
+      tags: ["Java", "NetBeans"],
+      category: "program",
+      webapp: "https://github.com/StefewnJohnson/Tic-Tac-Toe",
+    },
+    {
+      id: 4,
       title: "Edify",
       date: "Oct 2023 - Jan 2024",
       description:
@@ -310,42 +346,6 @@ export const Bio = {
       ],
       category: "website",
       webapp: "https://edifylearning.github.io/EdifyWebsite/",
-    },
-    {
-      id: 2,
-      title: "Awesome Platformer",
-      date: "Jun 2022 - Aug 2022",
-      description:
-        "Developed a dynamic Unity-based game using C#, featuring a diverse range of monsters with unique abilities and attack patterns to enhance player engagement. Implemented varied combat strategies with multiple weapons and skills, culminating in a challenging final boss with special attacks and strong defenses. Designed immersive levels with traps, puzzles, and enemy hordes, and ensured a captivating experience through high-quality graphics and sound effects. Created a user-friendly main menu for starting new games, loading saved progress, and adjusting settings, ensuring a compelling and immersive gameplay experience.",
-      image:
-        "https://raw.githubusercontent.com/StefewnJohnson/Awesome-Platformer/main/UI/BG.png",
-      tags: ["C#", "Unity", "Visual Studio", "MonoDevelop"],
-      category: "game",
-      webapp: "https://github.com/StefewnJohnson/Awesome-Platformer",
-    },
-    {
-      id: 3,
-      title: "The Village (Java Game)",
-      date: "May 2022 - Jun 2022",
-      description:
-        "Developed a text-based game using Java on Replit, utilizing the platform’s collaborative coding features. Focused on narrative and player choices, with customization options for character names and difficulty levels. Designed various enemies and bosses with unique attributes and attack patterns, and implemented combat mechanics through text commands for strategic gameplay. Incorporated an XP system for leveling up and enhancing abilities, and crafted a compelling story that evolves based on player decisions. Integrated a range of weapons with distinct effects, and included multiple difficulty levels to cater to diverse player preferences. Ensured straightforward navigation through a text-based interface and enhanced replayability with multiple difficulty settings and story paths.",
-      image:
-        "https://149455152.v2.pressablecdn.com/wp-content/uploads/2021/05/REvillagegeekdadfull.png",
-      tags: ["Java", "Replit"],
-      category: "program",
-      webapp: "https://github.com/StefewnJohnson/The-Village-Game",
-    },
-    {
-      id: 4,
-      title: "Tic-Tac-Toe",
-      date: "May 2021 - Jun 2021",
-      description:
-        "Developed a Tic-Tac-Toe game using Java and NetBeans, featuring a responsive design and user-friendly interface. Utilized 3-D arrays to manage the game board and track progress, ensuring accurate detection of winning combinations and smooth turn-based gameplay. Added a game history feature to allow players to review previous moves and outcomes.",
-      image:
-        "https://cdn-icons-png.flaticon.com/512/10199/10199746.png",
-      tags: ["Java", "NetBeans"],
-      category: "program",
-      webapp: "https://github.com/StefewnJohnson/Tic-Tac-Toe",
     },
   ];
   
