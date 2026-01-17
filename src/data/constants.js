@@ -290,7 +290,7 @@ export const Bio = {
       image:
         "https://media.licdn.com/dms/image/v2/D5612AQGyilbRtwjQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729524506512?e=1770249600&v=beta&t=obfcIOg88uI44SouzcLRYi-HPuFSs-DC36T5Q0GjKGQ",
       tags: ["Python", "Google Cloud", "Power BI", "GBT-2", "Google Vertex AI", "Google Colab"],
-      category: ["full-stack", "ai/machine learning"],
+      category: "ai/machine learning",
       webapp: "https://github.com/StefewnJohnson/AI-News-Aggregator",
     },
     {
@@ -302,7 +302,7 @@ export const Bio = {
       image:
         "https://media.istockphoto.com/id/1414126704/vector/online-shopping-concept.jpg?s=612x612&w=0&k=20&c=crMSuH56xz0OwOU9aD9WruiACBWyZY_TOnbG4hQaXec=",
       tags: ["C#", "Unity", "Visual Studio", "MonoDevelop"],
-      category: ["full-stack", "website"],
+      category: "full-stack",
       webapp: "https://github.com/StefewnJohnson/Kuik",
     },
     {
@@ -314,7 +314,7 @@ export const Bio = {
       image:
         "https://avatars.githubusercontent.com/u/237477365?s=200&v=4",
       tags: ["Java", "Replit"],
-      category: ["full-stack", "mobile"],
+      category: "mobile",
       webapp: "https://github.com/StefewnJohnson/Sharelyst",
     },
     {
