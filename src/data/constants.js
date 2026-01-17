@@ -283,15 +283,15 @@ export const Bio = {
   export const projects = [
     {
       id: 0,
-      title: "Emotion Detector",
-      date: "Apr 2024 - Jun 2024",
+      title: "AI News Aggregator",
+      date: "Dec 2025 - Jan 2026",
       description:
-        "Leveraged Google Cloud platform to execute Python code and conduct required tasks, including model training and fine-tuning(AI Programming to react a certain way for each given information). Employed Google Vertex AI and PowerBI alongside Python and GPT-2 for seamless execution and analysis of model training and dataset exploration tasks. This AI model is able to detect emotion from a conversation between two people such as detecting if someone is happy, sad, or angry. It is able to detect it through the words and emotions used in the conversation.",
+        "Built an end-to-end GenAI pipeline that aggregates AI news from YouTube and RSS feeds, processes content with LLM-powered summarization, relevance ranking, and personalized digest generation. Designed a modular backend architecture with scrapers, processing services, and agents, persisting data in PostgreSQL and orchestrating daily production runs. Deployed the containerized system using Docker with scheduled execution on Render in a production environment.",
       image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png",
+        "https://media.licdn.com/dms/image/v2/D5612AQGyilbRtwjQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729524506512?e=1770249600&v=beta&t=obfcIOg88uI44SouzcLRYi-HPuFSs-DC36T5Q0GjKGQ",
       tags: ["Python", "Google Cloud", "Power BI", "GBT-2", "Google Vertex AI", "Google Colab"],
       category: "machine learning",
-      webapp: "https://github.com/StefewnJohnson/Emotion-Detector",
+      webapp: "https://github.com/StefewnJohnson/AI-News-Aggregator",
     },
     {
       id: 1,
