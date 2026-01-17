@@ -115,31 +115,31 @@ const Projects = ({ openModal, setOpenModal }) => {
             </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "program"}
-            onClick={() => setToggle("program")}
+            active={toggle === "full-stack"}
+            onClick={() => setToggle("full-stack")}
           >
-            PROGRAM
+            FULL-STACK
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "game"}
-            onClick={() => setToggle("game")}
+            active={toggle === "mobile"}
+            onClick={() => setToggle("mobile")}
           >
-            GAME DEVELOPMENT
+            MOBILE
           </ToggleButton>
           <Divider />
           <ToggleButton
             active={toggle === "website"}
             onClick={() => setToggle("website")}
           >
-            WEBSITE DEVELOPMENT
+            WEB DEVELOPMENT
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "machine learning"}
-            onClick={() => setToggle("machine learning")}
+            active={toggle === "ai/machine learning"}
+            onClick={() => setToggle("ai/machine learning")}
           >
-            MACHINE LEARNING
+            AI / MACHINE LEARNING
           </ToggleButton>
         </ToggleButtonGroup>
         <CardContainer>
