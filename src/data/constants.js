@@ -295,32 +295,32 @@ export const Bio = {
     },
     {
       id: 1,
-      title: "Awesome Platformer",
-      date: "Jun 2022 - Aug 2022",
+      title: "Kuik",
+      date: "Sep 2025 - Dec 2025",
       description:
-        "Developed a dynamic Unity-based game using C#, featuring a diverse range of monsters with unique abilities and attack patterns to enhance player engagement. Implemented varied combat strategies with multiple weapons and skills, culminating in a challenging final boss with special attacks and strong defenses. Designed immersive levels with traps, puzzles, and enemy hordes, and ensured a captivating experience through high-quality graphics and sound effects. Created a user-friendly main menu for starting new games, loading saved progress, and adjusting settings, ensuring a compelling and immersive gameplay experience.",
+        "Collaboratively built and deployed a Spring Boot backend using MVC architecture, exposing RESTful APIs with transactional business logic; Dockerized and deployed on Render. Designed a normalized PostgreSQL schema with core entities, enum-based order states, and stock-safe checkout logic, ensuring data integrity. Developed a React frontend with Redux state management, protected routes, and JWT-based API integration for secure end-to-end communication.",
       image:
-        "https://raw.githubusercontent.com/StefewnJohnson/Awesome-Platformer/main/UI/BG.png",
+        "https://media.istockphoto.com/id/1414126704/vector/online-shopping-concept.jpg?s=612x612&w=0&k=20&c=crMSuH56xz0OwOU9aD9WruiACBWyZY_TOnbG4hQaXec=",
       tags: ["C#", "Unity", "Visual Studio", "MonoDevelop"],
       category: "game",
-      webapp: "https://github.com/StefewnJohnson/Awesome-Platformer",
+      webapp: "https://github.com/StefewnJohnson/Kuik",
     },
     {
       id: 2,
-      title: "The Village (Java Game)",
-      date: "May 2022 - Jun 2022",
+      title: "Sharelyst",
+      date: "Sep 2025 - Nov 2025",
       description:
-        "Developed a text-based game using Java on Replit, utilizing the platform’s collaborative coding features. Focused on narrative and player choices, with customization options for character names and difficulty levels. Designed various enemies and bosses with unique attributes and attack patterns, and implemented combat mechanics through text commands for strategic gameplay. Incorporated an XP system for leveling up and enhancing abilities, and crafted a compelling story that evolves based on player decisions. Integrated a range of weapons with distinct effects, and included multiple difficulty levels to cater to diverse player preferences. Ensured straightforward navigation through a text-based interface and enhanced replayability with multiple difficulty settings and story paths.",
+        "Collaboratively built a React Native (Expo) frontend with intuitive UI and seamless user interaction. Built a secure Node.js/Express backend with SQLite, JWT authentication, validation middleware, and RESTful routes for users, groups, and transactions. Deployed the full stack on Render, ensuring production-ready performance and environment consistency.",
       image:
-        "https://149455152.v2.pressablecdn.com/wp-content/uploads/2021/05/REvillagegeekdadfull.png",
+        "https://avatars.githubusercontent.com/u/237477365?s=200&v=4",
       tags: ["Java", "Replit"],
       category: "program",
-      webapp: "https://github.com/StefewnJohnson/The-Village-Game",
+      webapp: "https://github.com/StefewnJohnson/Sharelyst",
     },
     {
       id: 3,
-      title: "Tic-Tac-Toe",
-      date: "May 2021 - Jun 2021",
+      title: "Weather App",
+      date: "Jul 2024 - Aug 2024",
       description:
         "Developed a Tic-Tac-Toe game using Java and NetBeans, featuring a responsive design and user-friendly interface. Utilized 3-D arrays to manage the game board and track progress, ensuring accurate detection of winning combinations and smooth turn-based gameplay. Added a game history feature to allow players to review previous moves and outcomes.",
       image:
