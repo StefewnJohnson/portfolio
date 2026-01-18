@@ -93,11 +93,11 @@ export const Bio = {
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
         },
-        {
-          name: "Android",
-          image:
-            "https://pngimg.com/d/android_logo_PNG17.png",
-        },
+        //{
+          //name: "Android",
+          //image:
+            //"https://pngimg.com/d/android_logo_PNG17.png",
+        //},
         {
         name: "Android Studio",
         image:
