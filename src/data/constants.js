@@ -71,6 +71,60 @@ export const Bio = {
       ],
     },
     {
+      title: "Tools & Platforms",
+      skills: [
+        {
+        name: "Git",
+        image:
+          "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
+        },
+        {
+          name: "GitHub",
+          image:
+            "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        },
+        {
+        name: "Postman",
+        image:
+          "https://www.svgrepo.com/show/354202/postman-icon.svg",
+        },
+        {
+          name: "Visual Studio Code",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+        },
+        {
+          name: "Android",
+          image:
+            "https://pngimg.com/d/android_logo_PNG17.png",
+        },
+        {
+        name: "Android Studio",
+        image:
+          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+        },
+        {
+          name: "Linux (Ubuntu)",
+          image: "https://pngimg.com/d/linux_PNG1.png",
+        },
+        {
+          name: "Jupyter Notebook",
+          image:
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png",
+        },
+        {
+        name: "Figma",
+        image:
+          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+        },
+        {
+          name: "Google Colab",
+          image:
+            "https://avatars.githubusercontent.com/u/33467679?s=280&v=4",
+        },
+      ],
+    },
+    {
       title: "Frameworks & Libraries",
       skills: [
         {
@@ -102,10 +156,15 @@ export const Bio = {
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png",
         },
+        {
+          name: "OpenCV",
+          image:
+            "https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png",
+        },
       ],
     },
     {
-      title: "Databases",
+      title: "Databases & Cloud / DevOps",
       skills: [
         {
           name: "PostgreSQL",
@@ -132,11 +191,6 @@ export const Bio = {
           image:
             "https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Access-Logo.png",
         },
-      ],
-    },
-    {
-      title: "Cloud & DevOps",
-      skills: [
         {
         name: "Docker",
         image:
@@ -146,65 +200,6 @@ export const Bio = {
           name: "Render",
           image:
             "https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/gkq3dkkfkec8edd6fuay?ik-sanitizeSvg=true",
-        },
-      ],
-    },
-    {
-      title: "Tools",
-      skills: [
-        {
-        name: "Git",
-        image:
-          "https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png",
-        },
-        {
-          name: "GitHub",
-          image:
-            "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-        },
-        {
-        name: "Postman",
-        image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
-        },
-        {
-          name: "Visual Studio Code",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
-        },
-        {
-        name: "Android Studio",
-        image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
-        },
-        {
-        name: "Figma",
-        image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
-        },
-        {
-          name: "Google Colab",
-          image:
-            "https://avatars.githubusercontent.com/u/33467679?s=280&v=4",
-        },
-      ],
-    },
-    {
-      title: "Platforms",
-      skills: [ 
-        {
-          name: "Linux (Ubuntu)",
-          image: "https://pngimg.com/d/linux_PNG1.png",
-        },
-        {
-          name: "Android",
-          image:
-            "https://pngimg.com/d/android_logo_PNG17.png",
-        },
-        {
-          name: "Jupyter Notebook",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png",
         },
       ],
     },
