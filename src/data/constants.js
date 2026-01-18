@@ -212,7 +212,7 @@ export const Bio = {
       role: "Programmer/Analyst Co-op",
       company: "TTC, Toronto, ON",
       date: "May 2025 - Aug 2025",
-      desc: "Built a maintenance system and database in Microsoft Access, enabling admin users to issue maintenance notices. Rebuilt TTC’s old Microsoft Access forms and reports using HTML, CSS, and JavaScript for better functionality and UI. Developed an employee database in Microsoft Access to streamline the process of updating TTC employee information, using SQL and VBA to reduce the task to a two-button operation. Engineered a calendar application using HTML, CSS, and JavaScript, displaying historical and current train service data for each day, peak, and train line for TTC staff",
+      desc: "Built a maintenance system and database in Microsoft Access, enabling admin users to issue maintenance notices. Rebuilt TTC’s old Microsoft Access forms and reports using HTML, CSS, and JavaScript for better functionality and UI. Developed an employee database in Microsoft Access to streamline the process of updating TTC employee information, using SQL and VBA to reduce the task to a two-button operation. Engineered a calendar application using HTML, CSS, and JavaScript, displaying historical and current train service data for each day, peak, and train line for TTC staff.",
       skills: [
         "SQL",
         "HTML",
