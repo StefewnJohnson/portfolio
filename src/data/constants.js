@@ -32,7 +32,7 @@ export const Bio = {
         {
           name: "JavaScript",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+            "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
         },
         {
           name: "TypeScript",
@@ -42,7 +42,7 @@ export const Bio = {
         {
           name: "C",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png",
+            "https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg",
         },
         {
           name: "C++",
@@ -66,7 +66,7 @@ export const Bio = {
         {
           name: "CSS",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+            "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
         },
       ],
     },
@@ -91,7 +91,7 @@ export const Bio = {
         {
           name: "Visual Studio Code",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+            "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
         },
         //{
           //name: "Android",
@@ -154,7 +154,7 @@ export const Bio = {
         {
           name: "Spring Boot",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/640px-Spring_Boot.svg.png",
+            "https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg",
         },
         {
           name: "OpenCV",
@@ -169,7 +169,7 @@ export const Bio = {
         {
           name: "PostgreSQL",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png",
+            "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
         },
         {
           name: "MySQL",
