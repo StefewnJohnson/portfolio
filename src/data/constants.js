@@ -324,7 +324,7 @@ export const Bio = {
       description:
         "Built an end-to-end GenAI pipeline that aggregates AI news from YouTube and RSS feeds, processes content with LLM-powered summarization, relevance ranking, and personalized digest generation. Designed a modular backend architecture with scrapers, processing services, and agents, persisting data in PostgreSQL and orchestrating daily production runs. Deployed the containerized system using Docker with scheduled execution on Render in a production environment.",
       image:
-        "https://media.licdn.com/dms/image/v2/D5612AQGyilbRtwjQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729524506512?e=1770249600&v=beta&t=obfcIOg88uI44SouzcLRYi-HPuFSs-DC36T5Q0GjKGQ",
+        "https://media.licdn.com/dms/image/v2/D5612AQGyilbRtwjQ9A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1729524506512?e=2147483647&v=beta&t=3esmjfAon5tTXhVzY9uXqLlv74-FgXRvlCR-VwMCZrk",
       tags: ["AI / Machine Learning", "LLM", "Web Scraping", "PostgreSQL", "Docker"],
       category: "ai/machine learning",
       webapp: "https://github.com/StefewnJohnson/AI-News-Aggregator",
