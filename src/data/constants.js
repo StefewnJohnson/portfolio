@@ -300,7 +300,7 @@ export const Bio = {
       id: 0,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8rHrGdb-8ROOm1Y0iaZQ7fczblKh4mqab_Q&s",
       school: "York University, North York, ON",
-      date: "Sep 2022 - May 2026",
+      date: "Sep 2022 - Apr 2026",
       grade: "7.0/9.0 GPA",
       desc: "Activities and societies: I am currently enrolled in the prestigious Bergeron Entrepreneurs in Science and Technology certification program. This unique program combines courses from the esteemed Lassonde School of Engineering, Schulich School of Business, and Osgoode Hall Law School. It offers a comprehensive blend of technical expertise, business acumen, and legal understanding, preparing me to excel in the dynamic intersection of science, technology, and entrepreneurship.",
       degree: "Specialized Honours Bachelor of Science, Computer Science",
