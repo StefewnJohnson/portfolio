@@ -229,7 +229,7 @@ export const Bio = {
       img: "https://pbs.twimg.com/profile_images/1306241109924950018/4n0WOra7_400x400.jpg",
       role: "Head Soccer Coach",
       company: "Thornhill Soccer Club, Thornhill, ON",
-      date: "May 2023 - Aug 2025",
+      date: "May 2023 - Oct 2025",
       desc: "Meticulously craft session plans for training sessions and effectively organize teams to secure victories. Take charge of cleaning and maintaining the sports area, ensuring a safe and welcoming environment for all. Facilitate the development of players' technical skills and soccer knowledge through focused training and mentorship. Cultivate strong leadership, control, and planning skills essential for driving team performance and success.",
       skills: [
         "Communication",
